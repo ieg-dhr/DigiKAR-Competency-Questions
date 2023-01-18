@@ -1,1 +1,0 @@
-# DigiKAR-Competency-Questions
