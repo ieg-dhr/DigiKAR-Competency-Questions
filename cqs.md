@@ -121,7 +121,7 @@ Competency Questions werden aus einer User Story abgeleitet. Eine Competency Que
 <li>Welche Art von Entität/Ding ist ein Ort?</li>
 <li>Welche Orte sind Siedlungen?</li>
 <li>Welche Arten von Siedlungen gibt es unter den Orten?</li>
-<li>Welche Orte sind Verwaltungsgebiete/verweltungsgebiete?</li>
+<li>Welche Orte sind Verwaltungsgebiete?</li>
 <li>Welche Arten von Verwaltungseinheiten (geistlich/weltlich) gibt es unter den Orten?</li>
 </ol>
 </dd>
