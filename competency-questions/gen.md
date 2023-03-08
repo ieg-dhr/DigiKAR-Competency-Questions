@@ -5,7 +5,7 @@ permalink: /competency-questions//gen/
 categories: gen
 ---
 
-### Forschungsdatenmanagement
+#### Forschungsdatenmanagement
 
 <dl>
 <dt><b>User Story</b></dt>
@@ -22,7 +22,7 @@ categories: gen
 </dd>
 </dl>
 
-### Datenbankentwurf und Datenkuration
+#### Datenbankentwurf und Datenkuration
 
 <dl>
 <dt><b>User Story</b></dt>
@@ -50,12 +50,12 @@ categories: gen
 </dd>
 </dl>
 
-### Datenvalidierung
+#### Datenvalidierung
 
 <dl>
-<dt><b>User Story</dt>
+  <dt><b>User Story</b></dt>
 <dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/21">Als Historiker oder Informationswissenschaftler will ich Daten automatisch validieren können, um die Datenqualität (Vollständigkeit und Konsistenz der Angaben) zu sichern.</a></dd>
-<dt><b>Competency Questions</dt>
+  <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
 <li>Welche Daten sind unvollständig?</li>
