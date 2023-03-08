@@ -1,4 +1,6 @@
-<p align="justify">Diese Seit enthält die Competency Design Questions des <a href="https://digikar.eu/">DigiKAR Projekts</a>. Diese "Fragen" behandeln Anforderungen verschiedener Nutzergruppen.</p>
+<a href="https://digikar.eu/"><img src="img/DigiKAR_Logo_020921.svg" width="23%" alt="DigiKAR-Logo"></a>
+
+<p align="justify">Diese Seit enthält die <a href="competency-questions/">User Stories and zugehörigen Competency Questions</a> des <a href="https://digikar.eu/">DigiKAR Projekts</a>. Diese ‚Fragen‘ behandeln Anforderungen verschiedener Nutzergruppen.</p>
 
 <h2>Einführung in das Konzept der User Stories und Competency Questions</h2>
 
