@@ -8,9 +8,9 @@ permalink: /competency-questions/
 
 Die Auswahl an allgemeinen und für die Modellierung von Ortsdaten und biographischen Daten relevanten Competency Questions wird auf folgende Seiten aufgeteilt präsentiert:
 
-- [Competency Questions zu allgemeinen Anforderungen](competency-questions/gen/)
-- [Competency Questions zu Anforderungen der Modellierung von Ortsdaten](competency-questions/geo/)
-- [Competency Questions zu Anforderungen der Modellierung von biographischen Daten](competency-questions/bio/)
+- [Competency Questions zu allgemeinen Anforderungen](gen/)
+- [Competency Questions zu Anforderungen der Modellierung von Ortsdaten](geo/)
+- [Competency Questions zu Anforderungen der Modellierung von biographischen Daten](bio/)
 
 Eine User Story beschreibt in strukturierter Form Anforderungen an die Datenmodellierung bzw. an das Datenmodell. Eine User Story wird aus Anwenderperspektive formuliert, d.h. aus Sicht einer Historikerin oder eines Historikers, einer Forschungsdatenmanagerin oder eines Forschungsdatenmanagers, einer Kartographin oder eines Kartographen usw.
 
