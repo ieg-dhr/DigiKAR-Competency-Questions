@@ -18,9 +18,9 @@ categories: bio
 </dl>
 
 <dl>
-<dt>User Story</dt>
-<dd>[Als Historiker möchte ich die Vernetzung von Personen darstellen, um die Lebenswege der in verschiedenen sozialen Beziehungen stehenden Personen zu analysieren.](https://gitlab.rlp.net/digikar/user-stories/-/issues/20)</dd>
-<dt>Competency Questions</dt>
+  <dt><b>User Story</b></dt>
+<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/20">Als Historiker möchte ich die Vernetzung von Personen darstellen, um die Lebenswege der in verschiedenen sozialen Beziehungen stehenden Personen zu analysieren.</a>/dd>
+  <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
 <li>Welche unterschiedliche Arten von Vernetzungen (familiäre, Eltern-Kind, Eltern-Schwiegerkind, Enkel-Großvater) können unterscheiden werden?</li>
