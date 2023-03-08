@@ -37,7 +37,7 @@ categories: geo
 
 <dl>
 <<dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/8">Als Historiker will ich einen Ort typisieren bzw. klassifizieren, um ihn entsprechend visualisieren zu können.</a>)</dd>
+<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/8">Als Historiker will ich einen Ort typisieren bzw. klassifizieren, um ihn entsprechend visualisieren zu können.</a></dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -82,7 +82,7 @@ categories: geo
 </dl>
 
 <dl>
-<dt><b>User Story<</b></dt>
+<dt><b>User Story</b></dt>
 <dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/22">Als Kartographin will ich grundlegende Geoinformation bzw. ortsbasierte Information zu allen erfassten Orten visualisieren, um dadurch einen Überblick über den Raum zu bekommen.</a>)</dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
