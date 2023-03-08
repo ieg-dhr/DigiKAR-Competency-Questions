@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Competency Questions zu Anforderungen der Modellierung von biographischen Daten
-permalink: /competency-questions//bio/
+permalink: /competency-questions/bio/
 categories: bio
 ---
 
