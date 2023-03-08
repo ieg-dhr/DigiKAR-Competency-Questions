@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Competency Questions zu allgemeinen Anforderungen
-permalink: /competency-questions//gen/
+permalink: /competency-questions/gen/
 categories: gen
 ---
 
