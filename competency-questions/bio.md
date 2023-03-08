@@ -24,7 +24,7 @@ categories: bio
 <dd>
 <ol>
 <li>Welche unterschiedliche Arten von Vernetzungen (familiäre, Eltern-Kind, Eltern-Schwiegerkind, Enkel-Großvater) können unterscheiden werden?</li>
-<li>Welche Personen stehen dabei im Fokus ('Person of Interest' (PoI))?</li>
+<li>Welche Personen stehen dabei im Fokus (‘Person of Interest’ (PoI))?</li>
 <li>Welche Lebenswege (Karrierestationen, konkrete Aufenthalts- wie auch Bezugsorte/Dienstherren und Ämter) haben die Söhne, Schwiegersöhne, Väter und Großeltern zurückgelegt?</li>
 <li>Wen heirateten die Töchter?</li>
 <li>Wie viele unterschiedliche Wirkungsorte/Bezugsorte hatte eine poi (= Wie relevant ist Mobilität im Lebensverlauf gewesen)?</li>
