@@ -19,7 +19,7 @@ categories: bio
 
 <dl>
   <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/20">Als Historiker möchte ich die Vernetzung von Personen darstellen, um die Lebenswege der in verschiedenen sozialen Beziehungen stehenden Personen zu analysieren.</a>/dd>
+<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/20">Als Historiker möchte ich die Vernetzung von Personen darstellen, um die Lebenswege der in verschiedenen sozialen Beziehungen stehenden Personen zu analysieren.</a></dd>
   <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
