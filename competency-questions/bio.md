@@ -5,12 +5,10 @@ permalink: /competency-questions//bio/
 categories: bio
 ---
 
-## Competency Questions zu Anforderungen der Modellierung von biographischen Daten
-
 <dl>
-<dt>User Story</dt>
-<dd>[Als Historiker will ich Verwandschaftsbeziehungen und soziale Beziehungen zwischen Personen erfassen und in den Daten abbilden, um etwa die Karriereverläufe von Amtsträgern aufgrund ihrer Herkunft und persönlichen bzw. beruflichen Netzwerke zu analysieren.](https://gitlab.rlp.net/digikar/user-stories/-/issues/4)</dd>
-<dt>Competency Questions</dt>
+  <dt><b>User Story</b></dt>
+<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/4">Als Historiker will ich Verwandschaftsbeziehungen und soziale Beziehungen zwischen Personen erfassen und in den Daten abbilden, um etwa die Karriereverläufe von Amtsträgern aufgrund ihrer Herkunft und persönlichen bzw. beruflichen Netzwerke zu analysieren.</a></dd>
+  <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
 <li>Welche Rolle spielte eine Person in einer sozialen Beziehung?</li>
