@@ -52,7 +52,7 @@ categories: geo
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/15">Als Historiker will ich die multiple Zugehörigkeiten von Orten erfassen, um diese Information für Visualisierungen zu nutzen.</a>)</dd>
+<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/15">Als Historiker will ich die multiple Zugehörigkeiten von Orten erfassen, um diese Information für Visualisierungen zu nutzen.</a></dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -83,7 +83,7 @@ categories: geo
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/22">Als Kartographin will ich grundlegende Geoinformation bzw. ortsbasierte Information zu allen erfassten Orten visualisieren, um dadurch einen Überblick über den Raum zu bekommen.</a>)</dd>
+<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/22">Als Kartographin will ich grundlegende Geoinformation bzw. ortsbasierte Information zu allen erfassten Orten visualisieren, um dadurch einen Überblick über den Raum zu bekommen.</a></dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
