@@ -1,3 +1,8 @@
 title: DigiKAR Competency Questions
 description: Competency Questions from the DigiKAR project
 theme: minima
+
+header_pages:
+  - index.md
+  - cqs.md
+  
