@@ -9,7 +9,7 @@ categories: gen
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/1">Als Forschungsdatenmanager möchte ich einen Überblick über Forschungsdaten, die aktuell aus historischen Quellen gewonnen werden abfragen, um den Fortschritt der Datenaufbereitung und die Datenqualität einzusehen bzw. zu überwachen.</a></dd>
+<dd><a>Als Forschungsdatenmanager möchte ich einen Überblick über Forschungsdaten, die aktuell aus historischen Quellen gewonnen werden abfragen, um den Fortschritt der Datenaufbereitung und die Datenqualität einzusehen bzw. zu überwachen.</a></dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -26,7 +26,7 @@ categories: gen
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/2">Als Historiker will ich eine Datenbank erstellen, die offen bleiben muss, um neue Orte, neue Attribute, neue Zuordnungen zu Attributen ergänzen zu können.</a></dd>
+<dd><a>Als Historiker will ich eine Datenbank erstellen, die offen bleiben muss, um neue Orte, neue Attribute, neue Zuordnungen zu Attributen ergänzen zu können.</a></dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -38,7 +38,7 @@ categories: gen
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/9">Als Historiker will ich vage Datums- und Zeitangaben modellieren, um relative Datierung zu unterstützen.</a></dd>
+<dd><a>Als Historiker will ich vage Datums- und Zeitangaben modellieren, um relative Datierung zu unterstützen.</a></dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -54,7 +54,7 @@ categories: gen
 
 <dl>
   <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/21">Als Historiker oder Informationswissenschaftler will ich Daten automatisch validieren können, um die Datenqualität (Vollständigkeit und Konsistenz der Angaben) zu sichern.</a></dd>
+<dd><a>Als Historiker oder Informationswissenschaftler will ich Daten automatisch validieren können, um die Datenqualität (Vollständigkeit und Konsistenz der Angaben) zu sichern.</a></dd>
   <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
