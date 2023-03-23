@@ -9,7 +9,7 @@ categories: gen
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a>Als Forschungsdatenmanager möchte ich einen Überblick über Forschungsdaten, die aktuell aus historischen Quellen gewonnen werden abfragen, um den Fortschritt der Datenaufbereitung und die Datenqualität einzusehen bzw. zu überwachen.</a></dd>
+<dd>Als Forschungsdatenmanager möchte ich einen Überblick über Forschungsdaten, die aktuell aus historischen Quellen gewonnen werden abfragen, um den Fortschritt der Datenaufbereitung und die Datenqualität einzusehen bzw. zu überwachen.</dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -26,7 +26,7 @@ categories: gen
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a>Als Historiker will ich eine Datenbank erstellen, die offen bleiben muss, um neue Orte, neue Attribute, neue Zuordnungen zu Attributen ergänzen zu können.</a></dd>
+<dd>Als Historiker will ich eine Datenbank erstellen, die offen bleiben muss, um neue Orte, neue Attribute, neue Zuordnungen zu Attributen ergänzen zu können.</dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -38,7 +38,7 @@ categories: gen
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a>Als Historiker will ich vage Datums- und Zeitangaben modellieren, um relative Datierung zu unterstützen.</a></dd>
+<dd>Als Historiker will ich vage Datums- und Zeitangaben modellieren, um relative Datierung zu unterstützen.</dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -54,7 +54,7 @@ categories: gen
 
 <dl>
   <dt><b>User Story</b></dt>
-<dd><a>Als Historiker oder Informationswissenschaftler will ich Daten automatisch validieren können, um die Datenqualität (Vollständigkeit und Konsistenz der Angaben) zu sichern.</a></dd>
+<dd>Als Historiker oder Informationswissenschaftler will ich Daten automatisch validieren können, um die Datenqualität (Vollständigkeit und Konsistenz der Angaben) zu sichern.</dd>
   <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
