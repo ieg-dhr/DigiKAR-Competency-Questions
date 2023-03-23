@@ -7,7 +7,7 @@ categories: geo
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/3">Als Historiker will ich Daten aus seriellen Quellen erfassen, um Information über raumkonstituierende Eigenschaften von Orten zu sammeln.</a></dd>
+<dd><a>Als Historiker will ich Daten aus seriellen Quellen erfassen, um Information über raumkonstituierende Eigenschaften von Orten zu sammeln.</a></dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -23,7 +23,7 @@ categories: geo
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/5">Als Informationswissenschaftler will ich Geodaten zu einem Ort aus verschieden Quellen bzw. Datenbeständen integrieren, um sie für weiterführende Analysen und Visualisierungen abrufbar zu machen.</a></dd>
+<dd><a>Als Informationswissenschaftler will ich Geodaten zu einem Ort aus verschieden Quellen bzw. Datenbeständen integrieren, um sie für weiterführende Analysen und Visualisierungen abrufbar zu machen.</a></dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -37,7 +37,7 @@ categories: geo
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/8">Als Historiker will ich einen Ort typisieren bzw. klassifizieren, um ihn entsprechend visualisieren zu können.</a></dd>
+<dd><a>Als Historiker will ich einen Ort typisieren bzw. klassifizieren, um ihn entsprechend visualisieren zu können.</a></dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -52,7 +52,7 @@ categories: geo
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/15">Als Historiker will ich die multiple Zugehörigkeiten von Orten erfassen, um diese Information für Visualisierungen zu nutzen.</a></dd>
+<dd><a>Als Historiker will ich die multiple Zugehörigkeiten von Orten erfassen, um diese Information für Visualisierungen zu nutzen.</a></dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -69,7 +69,7 @@ categories: geo
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/17">Als Informationswissenschaftler will ich aus historischen Quellen zeitlich begrenzt verwendeten Ortsnamen im Datenmodell erfassen können, um ein historisches Ortsnamensverzeichnis mit entsprechender Information aufzubauen.</a></dd>
+<dd><a>Als Informationswissenschaftler will ich aus historischen Quellen zeitlich begrenzt verwendeten Ortsnamen im Datenmodell erfassen können, um ein historisches Ortsnamensverzeichnis mit entsprechender Information aufzubauen.</a></dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -83,7 +83,7 @@ categories: geo
 
 <dl>
 <dt><b>User Story</b></dt>
-<dd><a href="https://gitlab.rlp.net/digikar/user-stories/-/issues/22">Als Kartographin will ich grundlegende Geoinformation bzw. ortsbasierte Information zu allen erfassten Orten visualisieren, um dadurch einen Überblick über den Raum zu bekommen.</a></dd>
+<dd><a>Als Kartographin will ich grundlegende Geoinformation bzw. ortsbasierte Information zu allen erfassten Orten visualisieren, um dadurch einen Überblick über den Raum zu bekommen.</a></dd>
 <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
