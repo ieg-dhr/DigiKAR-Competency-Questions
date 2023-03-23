@@ -7,7 +7,7 @@ categories: bio
 
 <dl>
   <dt><b>User Story</b></dt>
-<dd>Als Historiker will ich Verwandschaftsbeziehungen und soziale Beziehungen zwischen Personen erfassen und in den Daten abbilden, um etwa die Karriereverläufe von Amtsträgern aufgrund ihrer Herkunft und persönlichen bzw. beruflichen Netzwerke zu analysieren.</dd>
+Als Historiker will ich Verwandschaftsbeziehungen und soziale Beziehungen zwischen Personen erfassen und in den Daten abbilden, um etwa die Karriereverläufe von Amtsträgern aufgrund ihrer Herkunft und persönlichen bzw. beruflichen Netzwerke zu analysieren.  
   <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
@@ -19,7 +19,7 @@ categories: bio
 
 <dl>
   <dt><b>User Story</b></dt>
-<dd>Als Historiker möchte ich die Vernetzung von Personen darstellen, um die Lebenswege der in verschiedenen sozialen Beziehungen stehenden Personen zu analysieren.</dd>
+Als Historiker möchte ich die Vernetzung von Personen darstellen, um die Lebenswege der in verschiedenen sozialen Beziehungen stehenden Personen zu analysieren.  
   <dt><b>Competency Questions</b></dt>
 <dd>
 <ol>
